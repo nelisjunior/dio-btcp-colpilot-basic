@@ -4,6 +4,8 @@
 
 Módulo: <https://web.dio.me/lab/explorando-os-recursos-de-ia-generativa-com-copilot-e-openai>
 
+> Mais informações sobre o Desafio [aqui](tarefa.md).
+
 ## Estrutura do Repositório
 
 - inputs/: Contém as imagens utilizadas no projeto.
@@ -24,7 +26,7 @@ Após analise todas as imagens, pedi para o copilot descrever o que fora forneci
 
 Por fim, perdi para utilizar dos recursos de geração de imagem para criar uma representação dele relacionado com as imagens fornecidas. Infelizmente, não obtive sucesso na geração de imagens. Por algum motivo deu erro e não foi gerado uma imagem. Em outra iteração, ele simplemente encerrou a sessão.
 
-#### Capturas de tela
+### Capturas de tela
 
 - Entradas:
   - [2011-in](inputs/2011.jpg)
@@ -45,6 +47,21 @@ Por fim, perdi para utilizar dos recursos de geração de imagem para criar uma 
 ## Minhas considerações
 
 O Copilot é uma ferramenta muito poderosa e que pode ser utilizada para diversas finalidades. No entanto, é importante ressaltar que a ferramenta ainda possui limitações para cenários mais complexos e que exigem um maior grau de detalhamento. No entanto, para tarefas mais simples e rotineiras, o Copilot pode ser uma excelente opção para auxiliar no desenvolvimento de projetos e na geração de conteúdo.
+
+### Bonus
+
+Minha interação com o Copilot do Github foi um tanto interessante e satisfatório.
+Segue as capturas de tela da nossa interação.
+
+- Entrada
+  - [Copilot-in 1](inputs/copilotGithub-in1.png)
+  - [Copilot-in 2](inputs/copilotGithub-in2.png)
+- Saída
+  - [Copilot-out 1](output/copilotGithub-out1.png)
+  - [Copilot-out 2](output/copilotGithub-out2.png)
+  - [Copilot-final](output/copilotGithub-final.png)
+
+
 
 ## Créditos e Referências
 
